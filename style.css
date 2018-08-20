@@ -1,0 +1,45 @@
+div#danceFloor
+{
+	display: flex;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.content
+{
+	background-color: lightblue;
+	border: black 1px solid;
+	width: 10px;
+	height: 10px;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	box-shadow: 10px 10px 20px;
+}
+
+div#P1
+{
+	width: 10px;
+	height: 10px;
+	background-color: yellow;
+}
+
+div#P2
+{
+	width: 100px;
+	height: 20px;
+}
+
+div#P3
+{
+	width: 70px;
+	height: 35px;
+	background-color: lightgreen;
+}
+
+div#P4
+{
+	width: 123px;
+	height: 10px;
+}
